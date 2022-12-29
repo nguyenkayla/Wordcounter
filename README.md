@@ -1,2 +1,2 @@
-# Wordcounter
+# Word counter
 fun lil project
