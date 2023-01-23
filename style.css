@@ -47,6 +47,7 @@ h1 {
   padding: 5px 0;
   font-size: 1.7rem;
   color: #343232;
+}
 
  #label {
   text-align: center;
@@ -54,4 +55,4 @@ h1 {
   font-size: 16px;
   line-height: 1.8;
   margin: 0 20px;
-   }
+}
